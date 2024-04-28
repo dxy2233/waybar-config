@@ -1,15 +1,14 @@
 * {
   font-family: JetBrainsMono Nerd Font;
-  font-size: 17px;
+  font-size: 18px;
 }
 
 window#waybar {
-  background-color: rgba(26, 27, 38, 0.5);
+  background-color: rgba(26, 27, 38, 0.4);
   color: #ffffff;
   transition-property: background-color;
   transition-duration: 0.5s;
   border-top: 8px transparent;
-  /* border-radius: 8px; */
   transition-duration: 0.5s;
   margin: 0px 16px 16px;
 }
